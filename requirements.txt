@@ -1,0 +1,8 @@
+numpy>=1.26.4,<2.0
+pandas>=2.1.4,<3.0
+scikit-learn>=1.3.2
+pyarrow>=14.0.2
+sagemaker>=2.224.0
+datasets>=2.16.1
+boto3
+joblib
